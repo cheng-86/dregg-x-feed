@@ -1,0 +1,8 @@
+{
+  "name": "dregg-x-feed",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "xactions": "^3.5.0"
+  }
+}
